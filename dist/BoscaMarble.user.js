@@ -6,7 +6,7 @@
 // @author       boscawinks
 // @license      MPL-2.0
 // @homepageURL  https://github.com/boscawinks/Wplace-BoscaMarble
-// @icon         https://raw.githubusercontent.com/boscawinks/Wplace-BoscaMarble/87694688cb85611cbbe9719f852803949289c8af/dist/assets/Favicon.png
+// @icon         https://raw.githubusercontent.com/boscawinks/Wplace-BoscaMarble/7286863adb76b753c7fae3eaa34aa70d629f0cce/dist/assets/Favicon.png
 // @updateURL    https://raw.githubusercontent.com/boscawinks/Wplace-BoscaMarble/main/dist/BoscaMarble.user.js
 // @downloadURL  https://raw.githubusercontent.com/boscawinks/Wplace-BoscaMarble/main/dist/BoscaMarble.user.js
 // @match        *://*.wplace.live/*
@@ -18,7 +18,7 @@
 // @connect      nominatim.openstreetmap.org
 // @connect      wplace.live
 // @connect      wplace.lol
-// @resource     CSS-BM-File https://raw.githubusercontent.com/boscawinks/Wplace-BoscaMarble/87694688cb85611cbbe9719f852803949289c8af/dist/BoscaMarble.user.css
+// @resource     CSS-BM-File https://raw.githubusercontent.com/boscawinks/Wplace-BoscaMarble/7286863adb76b753c7fae3eaa34aa70d629f0cce/dist/BoscaMarble.user.css
 // ==/UserScript==
 
 // Wplace  --> https://wplace.live
